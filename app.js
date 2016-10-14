@@ -1,4 +1,6 @@
 //app.js
+//官方地址 htmlk.cn 小k博客
+
 App({
   onLaunch: function () {
     //调用API从本地缓存中获取数据
