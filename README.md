@@ -49,11 +49,7 @@
 4、更多详细可以联系博主
 
 ### 项目演示 ###
-<video id="video" controls="" preload="none" poster="http://i.imgur.com/xCKThm2.png">
-<source id="mp4" src="http://7xn9on.com1.z0.glb.clouddn.com/video.mp4" type="video/mp4">
-<p>
-- [点击上面视频在线演示](http://7xn9on.com1.z0.glb.clouddn.com/video.mp4" type="video/mp4)</p>
-</video>
+![](http://7xn9on.com1.z0.glb.clouddn.com/yiguo.gif)
 
 ## 更多代码
 
